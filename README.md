@@ -4,7 +4,7 @@ Welcome to the Thread App repository! This is a full-stack web application built
 
 ## Features
 
-- **MongoDB for Data Storage:** We use MongoDB to store and manage data efficiently.
+- **MongoDB for Data Storage:** Used MongoDB to store and manage data efficiently.
 
 - **Tailwind CSS for Layout:** Tailwind CSS is employed for styling and layout purposes, ensuring a clean and responsive user interface.
 
